@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-discovery
+  description: A spike to test backstage discovery
+  tags:
+    - spike
+spec:
+  type: service
+  lifecycle: experimental
+  owner: omar-ansari
