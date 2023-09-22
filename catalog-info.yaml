@@ -11,5 +11,5 @@ spec:
   lifecycle: experimental
   owner: omar-ansari
   providesApis:
-    - backstage-discovery-api
+    - backstage-discovery-fake-api
     - backstage-discovery-avro-contract

@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: backstage-discovery-api
+  name: backstage-discovery-fake-api
   description: The Petstore API to test backstage discovery
   tags:
     - spike  
@@ -11,4 +11,4 @@ spec:
   lifecycle: experimental
   owner: omar-ansari
   definition:
-    $text: ./swagger.json
+    $text: ./fake-api-spec.json
