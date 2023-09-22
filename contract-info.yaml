@@ -11,4 +11,4 @@ spec:
   lifecycle: experimental
   owner: omar-ansari
   definition:
-    $text: ./*.avsc
+    $text: ./fake-contract.avsc
