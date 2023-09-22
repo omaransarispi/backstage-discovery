@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: backstage-discovery-avro-contracts
+  description: Sample Avro Contract to test backstage discovery
+  tags:
+    - spike  
+spec:
+  system: backstage-discovery-system
+  type: avro
+  lifecycle: experimental
+  owner: omar-ansari
+  definition:
+    $json: ./fake-contract.avsc
