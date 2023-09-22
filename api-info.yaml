@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: backstage-api-discovery
+  name: backstage-discovery-api
   description: The Petstore API to test backstage discovery
   tags:
     - spike  
