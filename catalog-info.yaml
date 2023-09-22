@@ -10,3 +10,4 @@ spec:
   type: service
   lifecycle: experimental
   owner: omar-ansari
+  providesApis: ./api-info.yaml
