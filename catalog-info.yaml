@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage-discovery-component
+  name: backstage-discovery-service
   description: A spike to test backstage discovery
   tags:
     - spike
