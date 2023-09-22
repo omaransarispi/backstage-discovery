@@ -12,3 +12,4 @@ spec:
   owner: omar-ansari
   providesApis:
     - backstage-discovery-api
+    - backstage-discovery-avro-contract
