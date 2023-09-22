@@ -6,6 +6,7 @@ metadata:
   tags:
     - spike
 spec:
+  system: backstage-discovery-system
   type: service
   lifecycle: experimental
   owner: omar-ansari
