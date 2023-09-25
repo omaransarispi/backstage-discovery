@@ -13,3 +13,4 @@ spec:
   providesApis:
     - backstage-discovery-fake-api
     - backstage-discovery-avro-contract
+    - backstage-discovery-avro-contract-2

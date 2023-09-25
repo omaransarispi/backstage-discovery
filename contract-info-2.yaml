@@ -1,8 +1,9 @@
+# 2nd contract definition
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: backstage-discovery-avro-contract
-  description: Sample Avro Contract to test backstage discovery
+  name: backstage-discovery-avro-contract-2
+  description: 2nd Sample Avro Contract to test backstage discovery
   tags:
     - spike
     - avro
@@ -12,4 +13,4 @@ spec:
   lifecycle: experimental
   owner: omar-ansari
   definition:
-    $text: ./fake-contract.avsc
+    $text: ./fake-contract-2.avsc

@@ -4,7 +4,8 @@ metadata:
   name: backstage-discovery-fake-api
   description: The Petstore API to test backstage discovery
   tags:
-    - spike  
+    - spike
+    - api
 spec:
   system: backstage-discovery-system
   type: openapi
